@@ -1,6 +1,10 @@
 # WordPress转换为帝国CMS完整图文教程、技术记录
 
-## 实现原理：利用帝国cms采集WordPress文章，采集时先不审核（比较重要），然后批量替换。
+原文地址：https://www.wentong.org/ecms/jiaocheng/201806023.html
+
+## 实现原理
+
+利用帝国cms采集WordPress文章，采集时先不审核（比较重要），然后批量替换。
 
 ## 准备工作：
 
